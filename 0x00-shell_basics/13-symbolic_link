@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s file1 link1
+ln -s
