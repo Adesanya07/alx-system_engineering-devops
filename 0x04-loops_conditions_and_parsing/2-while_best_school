@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#while loop to write bash school 10 times
+
+
+a = 1
+while (a <= 10)
+do
+    echo "Best School"
+done
