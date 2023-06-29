@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Command line for the win
 Bash
 Scripting
@@ -22,3 +23,6 @@ Push this screenshot with the right name to GitHub, in either the PNG or JPEG fo
 More Info
 Manual QA Review
 It is your responsibility to request a review for this project from a peer. If no peers have been reviewed, you should request a review from a TA or staff member.
+=======
+command_line_for_the_win
+>>>>>>> 6318fe853e2b1f4b8f6356869d6c3eb8cce30bbd
