@@ -1,0 +1,9 @@
+Host *
+     passwordAuthentication no
+
+
+Host Alxserver
+
+     Hostname      3.84.237.111
+     user    ubuntu
+     IdentityFile    ~/.ssh/school
